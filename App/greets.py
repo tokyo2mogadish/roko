@@ -1,0 +1,1 @@
+greetings = ['ciao', 'hi', 'zdravo']
